@@ -14,7 +14,7 @@ c'est  un projet simple ( Employee Management System ) creé à l'aide de  Sprin
 * Mettre en œuvre la fonction de tri
 
 ## Demo 
-Pour une démonstration, j'ai déployé sur heroku, vous pouvez consultez [GestionEmployes](/)
+Pour une démonstration, j'ai déployé sur heroku, vous pouvez consultez [GestionEmployes](https://gestionemployes.herokuapp.com/)
 
 
 
